@@ -3,6 +3,7 @@
 ## Getting Started
 
 Nicholas Hasian
+<br>
 H1D022053
 
-<a href="/Nicholas Hasian_H1D022053_UAS_Pemmob.pdf">Cek Disini</a>
+Untuk Laporan yang berisikan penjelasannya dapat dilihat <a href="/Nicholas Hasian_H1D022053_UAS_Pemmob.pdf">disini</a>
