@@ -1,6 +1,5 @@
-# Ujian Akhir Semester Pemrograman Mobile
-
-## Getting Started
+# Ujian Akhir Semester
+## Pemrograman Mobile
 
 Nicholas Hasian
 <br>
